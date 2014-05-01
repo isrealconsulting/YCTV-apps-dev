@@ -3,7 +3,7 @@ YCTV-apps-dev
 
 Yahoo Connected TV Apps - Dev
 
-README FILE
+README FILE - Branch "test"
 
 This is the development repository for Isreal Consulting's Yahoo! Connected TV application development testing.
 ----------------------------------------------------------------------------------------------------------------
